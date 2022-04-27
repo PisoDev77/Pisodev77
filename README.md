@@ -1,8 +1,16 @@
-# Hello I am PisoDev.
+# Welcome I'm PisoDev.
+### I am a student who wants to be a developer.
+## Stack I looked into :desktop_computer:
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
+![Spring  Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=ffffff)
+
+
 
 <!--
 **PisoDev77/PisoDev77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={로고}&logoColor={로고컬러}
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
