@@ -3,7 +3,6 @@
 ## Stack I looked into :desktop_computer:
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
-![Spring  Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=ffffff)
 
 
