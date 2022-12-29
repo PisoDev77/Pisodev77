@@ -1,13 +1,14 @@
 # Welcome I'm PisoDev.
+
 ### I am a student who wants to be a developer.
+
 ## Stack I looked into :desktop_computer:
+
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=ffffff)
-
-
 
 <!--
 **PisoDev77/PisoDev77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
